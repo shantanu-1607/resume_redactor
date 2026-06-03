@@ -66,3 +66,8 @@ PDF_JOBS = {
     
     "sample29.pdf" : {"olivia WILSON", "(123) 456-7890", "hello@reallygreatsite.com"},
 }
+
+# A dictionary mapping each .docx file to its unique set of PII
+DOCX_JOBS = {
+    "sample30.docx" : {"shantanu kumar singh", "+91-9140094421", "singhshantanu.0210@gmail.com"},
+}
